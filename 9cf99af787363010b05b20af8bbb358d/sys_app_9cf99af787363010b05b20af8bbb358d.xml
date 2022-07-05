@@ -14,13 +14,13 @@
         <license_model>none</license_model>
         <logo>85f9d6f787363010b05b20af8bbb3595</logo>
         <menu/>
-        <name>Dept Request</name>
+        <name>Business Application Catalog</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_535856_dept_re_0</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description>Handle incoming requests to this department</short_description>
+        <short_description>Request access to your favorite business applications</short_description>
         <source>x_535856_dept_re_0</source>
         <store_correlation_id/>
         <store_url/>
@@ -29,9 +29,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-10-01 19:14:24</sys_created_on>
         <sys_id>9cf99af787363010b05b20af8bbb358d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-10-01 19:14:27</sys_updated_on>
+        <sys_updated_on>2022-07-04 16:20:13</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>

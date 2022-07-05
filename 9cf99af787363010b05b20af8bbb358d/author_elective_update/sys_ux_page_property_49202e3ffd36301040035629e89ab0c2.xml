@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="Dept Request">c1202e3f773630101456720dcebbc2c2</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 19:41:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>49202e3ffd36301040035629e89ab0c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="Dept Request" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_update_name>sys_ux_page_property_49202e3ffd36301040035629e89ab0c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 19:41:29</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_535856_dept_re_0.c1202e3f773630101456720dcebbc2c2.root.globalSearchDataConfigId</unique_name>
+        <value>4961e3e7871033000929717936cb0ba7</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=49202e3ffd36301040035629e89ab0c2"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</application>
+        <file_path/>
+        <instance_id>3285cd60dbc05d1842b321c4059619d0</instance_id>
+        <instance_name>dev128546</instance_name>
+        <name>sys_ux_page_property_49202e3ffd36301040035629e89ab0c2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="Dept Request">c1202e3f773630101456720dcebbc2c2</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 19:41:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>49202e3ffd36301040035629e89ab0c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="Dept Request" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_update_name>sys_ux_page_property_49202e3ffd36301040035629e89ab0c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 19:41:29</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_535856_dept_re_0.c1202e3f773630101456720dcebbc2c2.root.globalSearchDataConfigId</unique_name>
+        <value>4961e3e7871033000929717936cb0ba7</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=49202e3ffd36301040035629e89ab0c2"/>
+</record_update>]]></payload>
+        <payload_hash>1340039177</payload_hash>
+        <record_name>globalSearchDataConfigId</record_name>
+        <reverted_from/>
+        <source>1c6322e497601110f8fe72121153af1e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 13:36:33</sys_created_on>
+        <sys_id>b26326e497601110f8fe72121153af9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181c96d51780000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 13:36:33</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>726326e4006011103d97b6e7d93beb9a</update_guid>
+        <update_guid_history>726326e4006011103d97b6e7d93beb9a:1340039177</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 16:20:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>455038983f6e4e42b32e48d1287c1079</sys_id>
+        <sys_metadata>49202e3ffd36301040035629e89ab0c2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="Business Application Catalog" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_scope_delete display_value="">0e23f0f4b2cc496082a4078231566651</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_49202e3ffd36301040035629e89ab0c2</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_49202e3ffd36301040035629e89ab0c2">b26326e497601110f8fe72121153af9a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 16:20:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

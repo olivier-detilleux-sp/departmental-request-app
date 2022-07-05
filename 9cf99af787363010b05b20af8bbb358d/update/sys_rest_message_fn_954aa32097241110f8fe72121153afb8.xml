@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content>{&#13;
+    "schemas": [&#13;
+        [&#13;
+            "urn:ietf:params:scim:schemas:sailpoint:1.0:LaunchedWorkflow",&#13;
+            "urn:ietf:params:scim:schemas:sailpoint:1.0:TaskResult"&#13;
+        ]&#13;
+    ],&#13;
+    "urn:ietf:params:scim:schemas:sailpoint:1.0:LaunchedWorkflow": {&#13;
+        "workflowName": "${workflowname}",&#13;
+        "input": [&#13;
+            {&#13;
+                "key": "plan",&#13;
+                "value": "&lt;ProvisioningPlan nativeIdentity=\"${requestedfor}\"&gt;\n  &lt;AccountRequest application=\"IIQ\" op=\"Modify\"&gt;\n    &lt;AttributeRequest name=\"assignedRoles\" op=\"Add\" value=\"${rolename}\"/&gt;\n  &lt;/AccountRequest&gt;\n&lt;/ProvisioningPlan&gt;",&#13;
+                "type": "application\/xml"&#13;
+            },&#13;
+            {&#13;
+                "key": "identityName",&#13;
+                "value": "${requestedfor}"&#13;
+            },&#13;
+            {&#13;
+                "key": "targetClass",&#13;
+                "value": "Identity"&#13;
+            },&#13;
+            {&#13;
+                "key": "flow",&#13;
+                "value": "ServiceNow"&#13;
+            },&#13;
+            {&#13;
+                "key": "launcher",&#13;
+                "value": "${requestedby}"&#13;
+            }&#13;
+        ]&#13;
+    }&#13;
+}</content>
+        <function_name>Launch LCM Provisioning</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>SailPoint IdentityIQ SCIM API [ Launch LCM Provisioning ]</qualified_name>
+        <rest_endpoint>${sailpointurl}/scim/v2/LaunchedWorkflows</rest_endpoint>
+        <rest_message display_value="SailPoint IdentityIQ SCIM API">0a99ef6497641110f8fe72121153af73</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 18:46:46</sys_created_on>
+        <sys_id>954aa32097241110f8fe72121153afb8</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Launch LCM Provisioning</sys_name>
+        <sys_package display_value="Business Application Catalog" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_update_name>sys_rest_message_fn_954aa32097241110f8fe72121153afb8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 20:51:38</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>basic</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="spadmin">c0c963a497641110f8fe72121153af7a</basic_auth_profile>
+        <basic_auth_user/>
+        <description/>
+        <name>SailPoint IdentityIQ SCIM API</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>${sailpointurl}/scim/v2</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 18:44:08</sys_created_on>
+        <sys_id>0a99ef6497641110f8fe72121153af73</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SailPoint IdentityIQ SCIM API</sys_name>
+        <sys_package display_value="Business Application Catalog" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_update_name>sys_rest_message_0a99ef6497641110f8fe72121153af73</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 19:03:46</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>

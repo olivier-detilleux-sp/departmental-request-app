@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="x_535856_dept_re_0_sailpoint_roles" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>x_535856_dept_re_0_sailpoint_roles</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-04 16:06:35</sys_created_on>
+            <sys_id>d0c54ba897e01110f8fe72121153afef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="Business Application Catalog" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</sys_scope>
+            <sys_update_name>sys_choice_x_535856_dept_re_0_sailpoint_roles_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-04 16:06:35</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Entitlement</label>
+            <language>en</language>
+            <name>x_535856_dept_re_0_sailpoint_roles</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-04 16:06:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54c54ba897e01110f8fe72121153afee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-04 16:06:35</sys_updated_on>
+            <value>entitlement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Role</label>
+            <language>en</language>
+            <name>x_535856_dept_re_0_sailpoint_roles</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-04 16:06:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24c54ba897e01110f8fe72121153affe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-04 16:06:35</sys_updated_on>
+            <value>role</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="SailPoint Roles" max_length="40" name="x_535856_dept_re_0_sailpoint_roles" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="SailPoint Id" max_length="40" name="sailpoint_id" type="string"/>
+        <element choice="3" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Entitlement" sequence="10" value="entitlement"/>
+                <element inactive_on_update="false" label="Role" sequence="20" value="role"/>
+            </choice>
+        </element>
+    </element>
+</database>

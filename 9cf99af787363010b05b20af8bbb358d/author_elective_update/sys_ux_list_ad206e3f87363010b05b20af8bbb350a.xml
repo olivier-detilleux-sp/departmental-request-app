@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list">
+    <sys_ux_list action="DELETE">
+        <active>true</active>
+        <category display_value="Request">e1206e3f87363010b05b20af8bbb3508</category>
+        <columns>number,priority,state,assigned_to,short_description,sys_class_name</columns>
+        <condition/>
+        <configuration display_value="Dept Request_menu_config">a1206e3f87363010b05b20af8bbb3506</configuration>
+        <group_by_column/>
+        <groups/>
+        <list_attributes/>
+        <order>50</order>
+        <roles/>
+        <sys_class_name>sys_ux_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 19:41:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ad206e3f87363010b05b20af8bbb350a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dept Request" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_update_name>sys_ux_list_ad206e3f87363010b05b20af8bbb350a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 19:41:30</sys_updated_on>
+        <table>x_535856_dept_re_0_request</table>
+        <title>All</title>
+    </sys_ux_list>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</application>
+        <file_path/>
+        <instance_id>3285cd60dbc05d1842b321c4059619d0</instance_id>
+        <instance_name>dev128546</instance_name>
+        <name>sys_ux_list_ad206e3f87363010b05b20af8bbb350a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list">
+    <sys_ux_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Request">e1206e3f87363010b05b20af8bbb3508</category>
+        <columns>number,priority,state,assigned_to,short_description,sys_class_name</columns>
+        <condition/>
+        <configuration display_value="Dept Request_menu_config">a1206e3f87363010b05b20af8bbb3506</configuration>
+        <group_by_column/>
+        <groups/>
+        <list_attributes/>
+        <order>50</order>
+        <roles/>
+        <sys_class_name>sys_ux_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 19:41:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ad206e3f87363010b05b20af8bbb350a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dept Request" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_update_name>sys_ux_list_ad206e3f87363010b05b20af8bbb350a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 19:41:30</sys_updated_on>
+        <table>x_535856_dept_re_0_request</table>
+        <title>All</title>
+    </sys_ux_list>
+</record_update>]]></payload>
+        <payload_hash>-500339187</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>1c6322e497601110f8fe72121153af1e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 13:36:33</sys_created_on>
+        <sys_id>6a6326e497601110f8fe72121153af7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181c96d4fde0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 13:36:33</sys_updated_on>
+        <type>UX List</type>
+        <update_guid>2a6326e4386011107f4de02c1e142b7b</update_guid>
+        <update_guid_history>2a6326e4386011107f4de02c1e142b7b:-500339187</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 21:54:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list">sys_ux_list</sys_db_object>
+        <sys_id>246a11a6e7b14be9bf526238669a1df1</sys_id>
+        <sys_metadata>ad206e3f87363010b05b20af8bbb350a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_package display_value="Business Application Catalog" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_scope_delete display_value="">0e23f0f4b2cc496082a4078231566651</sys_scope_delete>
+        <sys_update_name>sys_ux_list_ad206e3f87363010b05b20af8bbb350a</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_ad206e3f87363010b05b20af8bbb350a">6a6326e497601110f8fe72121153af7b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 21:54:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

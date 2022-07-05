@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>SailPoint IdentityIQ SCIM API [ Default GET ]</qualified_name>
+        <rest_endpoint>http://services-emea.skytap.com:10925/identityiq/scim/v2</rest_endpoint>
+        <rest_message display_value="SailPoint IdentityIQ SCIM API">0a99ef6497641110f8fe72121153af73</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 18:44:08</sys_created_on>
+        <sys_id>58d963a497641110f8fe72121153af4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Business Application Catalog" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_update_name>sys_rest_message_fn_58d963a497641110f8fe72121153af4e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 18:44:08</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</application>
+        <file_path/>
+        <instance_id>3285cd60dbc05d1842b321c4059619d0</instance_id>
+        <instance_name>dev128546</instance_name>
+        <name>sys_rest_message_fn_58d963a497641110f8fe72121153af4e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>Default GET</function_name><http_method>get</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>SailPoint IdentityIQ SCIM API [ Default GET ]</qualified_name><rest_endpoint>http://services-emea.skytap.com:10925/identityiq/scim/v2</rest_endpoint><rest_message display_value="SailPoint IdentityIQ SCIM API">0a99ef6497641110f8fe72121153af73</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-04 18:44:08</sys_created_on><sys_id>58d963a497641110f8fe72121153af4e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Default GET</sys_name><sys_package display_value="Business Application Catalog" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package><sys_policy/><sys_scope display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</sys_scope><sys_update_name>sys_rest_message_fn_58d963a497641110f8fe72121153af4e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-04 18:44:08</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>-1382329950</payload_hash>
+        <record_name>Default GET</record_name>
+        <reverted_from/>
+        <source>78732aa497601110f8fe72121153af4f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 18:44:08</sys_created_on>
+        <sys_id>94d9a3a497641110f8fe72121153af56</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181ca86ec560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 18:44:08</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>dcd9a3a4096411101e42170d11bcc255</update_guid>
+        <update_guid_history>dcd9a3a4096411101e42170d11bcc255:-1382329950</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 18:57:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>3a58e995b21d467e9adf86ab887f7ac4</sys_id>
+        <sys_metadata>58d963a497641110f8fe72121153af4e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Business Application Catalog" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_parent display_value="SailPoint IdentityIQ SCIM API">0a99ef6497641110f8fe72121153af73</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_scope_delete display_value="">0e23f0f4b2cc496082a4078231566651</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_58d963a497641110f8fe72121153af4e</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_58d963a497641110f8fe72121153af4e">94d9a3a497641110f8fe72121153af56</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 18:57:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_535856_dept_re_0_type</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 13:36:22</sys_created_on>
+        <sys_id>0c63eea497601110f8fe72121153af91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_535856_dept_re_0_type</sys_name>
+        <sys_package display_value="Dept Request" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_update_name>ua_table_licensing_config_0c63eea497601110f8fe72121153af91</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 13:36:22</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</application>
+        <file_path/>
+        <instance_id>3285cd60dbc05d1842b321c4059619d0</instance_id>
+        <instance_name>dev128546</instance_name>
+        <name>ua_table_licensing_config_0c63eea497601110f8fe72121153af91</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_535856_dept_re_0_type</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-04 13:36:22</sys_created_on><sys_id>0c63eea497601110f8fe72121153af91</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_535856_dept_re_0_type</sys_name><sys_package display_value="Dept Request" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package><sys_policy/><sys_scope display_value="Dept Request">9cf99af787363010b05b20af8bbb358d</sys_scope><sys_update_name>ua_table_licensing_config_0c63eea497601110f8fe72121153af91</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-04 13:36:22</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>1353031250</payload_hash>
+        <record_name>x_535856_dept_re_0_type</record_name>
+        <reverted_from/>
+        <source>d6a61fb397101110f8fe72121153af5b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-07-02 09:25:00</sys_created_on>
+        <sys_id>c76366e497601110f8fe72121153af21</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>181be3a49e00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Table Subscription Configuration</type>
+        <update_guid>876366e46f601110c2bbfb66c32af821</update_guid>
+        <update_guid_history>876366e46f601110c2bbfb66c32af821:1353031250</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 16:20:49</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>2d980cf8949f44d8a56793c992df0d64</sys_id>
+        <sys_metadata>0c63eea497601110f8fe72121153af91</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_535856_dept_re_0_type</sys_name>
+        <sys_package display_value="Business Application Catalog" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_scope_delete display_value="">0e23f0f4b2cc496082a4078231566651</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_0c63eea497601110f8fe72121153af91</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_0c63eea497601110f8fe72121153af91">c76366e497601110f8fe72121153af21</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 16:20:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

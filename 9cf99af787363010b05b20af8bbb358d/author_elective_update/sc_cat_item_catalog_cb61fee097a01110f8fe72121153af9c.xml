@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="SailPoint Request">59ac6eec97601110f8fe72121153afc9</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 14:37:45</sys_created_on>
+        <sys_id>cb61fee097a01110f8fe72121153af9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.SailPoint Request</sys_name>
+        <sys_package display_value="Dept Request" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_cb61fee097a01110f8fe72121153af9c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 14:37:45</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</application>
+        <file_path/>
+        <instance_id>3285cd60dbc05d1842b321c4059619d0</instance_id>
+        <instance_name>dev128546</instance_name>
+        <name>sc_cat_item_catalog_cb61fee097a01110f8fe72121153af9c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="SailPoint Request">59ac6eec97601110f8fe72121153afc9</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-04 14:37:45</sys_created_on><sys_id>cb61fee097a01110f8fe72121153af9c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.SailPoint Request</sys_name><sys_package display_value="Dept Request" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package><sys_policy/><sys_scope display_value="Dept Request">9cf99af787363010b05b20af8bbb358d</sys_scope><sys_update_name>sc_cat_item_catalog_cb61fee097a01110f8fe72121153af9c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-04 14:37:45</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1350702077</payload_hash>
+        <record_name>Service Catalog.SailPoint Request</record_name>
+        <reverted_from/>
+        <source>78732aa497601110f8fe72121153af4f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 14:37:45</sys_created_on>
+        <sys_id>0b61fee097a01110f8fe72121153afa0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181c9a558aa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 14:37:45</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>8f61fee003a01110d42d7dffd694f99f</update_guid>
+        <update_guid_history>8f61fee003a01110d42d7dffd694f99f:-1350702077</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.SailPoint Request">d361fee097a01110f8fe72121153afa9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 14:37:45</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0ad89b17993c4d4384b39a82c63974e1</sys_id>
+        <sys_metadata>cb61fee097a01110f8fe72121153af9c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.SailPoint Request</sys_name>
+        <sys_package display_value="Business Application Catalog" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_parent display_value="SailPoint Request">59ac6eec97601110f8fe72121153afc9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_scope_delete display_value="">0e23f0f4b2cc496082a4078231566651</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_cb61fee097a01110f8fe72121153af9c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_cb61fee097a01110f8fe72121153af9c">0b61fee097a01110f8fe72121153afa0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 14:37:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

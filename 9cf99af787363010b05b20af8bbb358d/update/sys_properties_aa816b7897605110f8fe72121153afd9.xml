@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>URL of the SailPoint instance&#13;
+- For identityIQ : http(s)://hostname:port/identityiq&#13;
+- For identityNow : TBD</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_535856_dept_re_0.sailpoint_url</name>
+        <read_roles/>
+        <suffix>sailpoint_url</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-05 12:47:04</sys_created_on>
+        <sys_id>aa816b7897605110f8fe72121153afd9</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_535856_dept_re_0.sailpoint_url</sys_name>
+        <sys_package display_value="Business Application Catalog" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_update_name>sys_properties_aa816b7897605110f8fe72121153afd9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-05 13:22:59</sys_updated_on>
+        <type>string</type>
+        <value>http://services-emea.skytap.com:10925/identityiq</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=aa816b7897605110f8fe72121153afd9"/>
+</record_update>

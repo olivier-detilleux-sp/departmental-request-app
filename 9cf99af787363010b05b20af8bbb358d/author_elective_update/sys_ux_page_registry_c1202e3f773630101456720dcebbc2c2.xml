@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>05202e3f02363010ca9a97599140bec0</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <path>dept-request</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 19:41:29</sys_created_on>
+        <sys_id>c1202e3f773630101456720dcebbc2c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dept Request</sys_name>
+        <sys_package display_value="Dept Request" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_update_name>sys_ux_page_registry_c1202e3f773630101456720dcebbc2c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 19:41:29</sys_updated_on>
+        <title>Dept Request</title>
+    </sys_ux_page_registry>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</application>
+        <file_path/>
+        <instance_id>3285cd60dbc05d1842b321c4059619d0</instance_id>
+        <instance_name>dev128546</instance_name>
+        <name>sys_ux_page_registry_c1202e3f773630101456720dcebbc2c2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>05202e3f02363010ca9a97599140bec0</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <path>dept-request</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 19:41:29</sys_created_on>
+        <sys_id>c1202e3f773630101456720dcebbc2c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dept Request</sys_name>
+        <sys_package display_value="Dept Request" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_update_name>sys_ux_page_registry_c1202e3f773630101456720dcebbc2c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 19:41:29</sys_updated_on>
+        <title>Dept Request</title>
+    </sys_ux_page_registry>
+</record_update>]]></payload>
+        <payload_hash>-1781816054</payload_hash>
+        <record_name>Dept Request</record_name>
+        <reverted_from/>
+        <source>1c6322e497601110f8fe72121153af1e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 13:36:34</sys_created_on>
+        <sys_id>b26326e497601110f8fe72121153afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181c96d52e00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 13:36:34</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>726326e4e3601110d64f0387537587b5</update_guid>
+        <update_guid_history>726326e4e3601110d64f0387537587b5:-1781816054</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-04 16:20:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>08db61d026fb42f385eab59a973799c1</sys_id>
+        <sys_metadata>c1202e3f773630101456720dcebbc2c2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dept Request</sys_name>
+        <sys_package display_value="Business Application Catalog" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Business Application Catalog">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_scope_delete display_value="">0e23f0f4b2cc496082a4078231566651</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_c1202e3f773630101456720dcebbc2c2</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_c1202e3f773630101456720dcebbc2c2">b26326e497601110f8fe72121153afb5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-04 16:20:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
